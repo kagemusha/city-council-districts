@@ -1,0 +1,6 @@
+Flask==1.0.2
+Fiona==1.8.6
+Opencage==1.1.6
+Rtree==0.8.3
+Shapely==1.6.4
+Pandas==0.24.2
